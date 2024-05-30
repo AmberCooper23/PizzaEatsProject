@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanay\\Downloads\\EnemyPenalties\\Enemy2Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanay\\Downloads\\Player1MovementRef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|c:\\users\\tanay\\onedrive\\documents\\game design\\semester game 1.0\\semlong 1.0\\assets\\ingredients\\ingredientgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\ingredients\\ingredientgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\assets\\score\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\score\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\assets\\score\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\score\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|c:\\users\\tanay\\onedrive\\documents\\game design\\semester game 1.0\\semlong 1.0\\assets\\enemy\\enemygen2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\enemygen2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\assets\\playerscripts\\player1movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\playerscripts\\player1movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\assets\\playerscripts\\player2movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\playerscripts\\player2movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\assets\\enemy\\enemygen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\enemygen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tanay\\Downloads\\EnemyPenalties\\Enemy3Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\assets\\shelves\\shelfproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\shelves\\shelfproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\assets\\playerscripts\\spatulacol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F1346F-5F0B-2A33-7A81-07723A796EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\playerscripts\\spatulacol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IngredientGen.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Ingredients\\IngredientGen.cs",
+              "RelativeDocumentMoniker": "Assets\\Ingredients\\IngredientGen.cs",
+              "ToolTip": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Ingredients\\IngredientGen.cs",
+              "RelativeToolTip": "Assets\\Ingredients\\IngredientGen.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:51:30.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player1MovementRef.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\Downloads\\Player1MovementRef.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Player1MovementRef.cs",
+              "ToolTip": "C:\\Users\\tanay\\Downloads\\Player1MovementRef.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Player1MovementRef.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAAAOcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:30:33.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy2Script.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\Downloads\\EnemyPenalties\\Enemy2Script.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\EnemyPenalties\\Enemy2Script.cs",
+              "ToolTip": "C:\\Users\\tanay\\Downloads\\EnemyPenalties\\Enemy2Script.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\EnemyPenalties\\Enemy2Script.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:56:06.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Score\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Score\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Score\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Score\\ScoreManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:28:27.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Score\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Score\\GameManager.cs",
+              "ToolTip": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Score\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Score\\GameManager.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwFAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:26:50.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyGen2.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Enemy\\EnemyGen2.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyGen2.cs",
+              "ToolTip": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Enemy\\EnemyGen2.cs",
+              "RelativeToolTip": "Assets\\Enemy\\EnemyGen2.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:18:51.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player1Movement.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\PlayerScripts\\Player1Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerScripts\\Player1Movement.cs",
+              "ToolTip": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\PlayerScripts\\Player1Movement.cs",
+              "RelativeToolTip": "Assets\\PlayerScripts\\Player1Movement.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAgwBcBAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:34:10.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player2Movement.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\PlayerScripts\\Player2Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerScripts\\Player2Movement.cs",
+              "ToolTip": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\PlayerScripts\\Player2Movement.cs",
+              "RelativeToolTip": "Assets\\PlayerScripts\\Player2Movement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:34:35.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy3Script.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\Downloads\\EnemyPenalties\\Enemy3Script.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\EnemyPenalties\\Enemy3Script.cs",
+              "ToolTip": "C:\\Users\\tanay\\Downloads\\EnemyPenalties\\Enemy3Script.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\EnemyPenalties\\Enemy3Script.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:56:19.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyGen.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Enemy\\EnemyGen.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyGen.cs",
+              "ToolTip": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Enemy\\EnemyGen.cs",
+              "RelativeToolTip": "Assets\\Enemy\\EnemyGen.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAwwJcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:24:17.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpatulaCol.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\PlayerScripts\\SpatulaCol.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerScripts\\SpatulaCol.cs",
+              "ToolTip": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\PlayerScripts\\SpatulaCol.cs",
+              "RelativeToolTip": "Assets\\PlayerScripts\\SpatulaCol.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:20:58.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShelfProperties.cs",
+              "DocumentMoniker": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Shelves\\ShelfProperties.cs",
+              "RelativeDocumentMoniker": "Assets\\Shelves\\ShelfProperties.cs",
+              "ToolTip": "C:\\Users\\tanay\\OneDrive\\Documents\\Game Design\\Semester Game 1.0\\SemLong 1.0\\Assets\\Shelves\\ShelfProperties.cs",
+              "RelativeToolTip": "Assets\\Shelves\\ShelfProperties.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:16:53.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
